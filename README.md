@@ -22,9 +22,6 @@ This project uses a GARCH(1,1) model to forecast Nasdaq volatility and simulate 
 6. **Compare recent prices to cone**
 7. **Generate buy/sell signals** based on 5th and 95th percentile breaches
 
-## 📈 Sample Chart
-
-![Simulation with Buy/Sell Signals](charts/trade_signals.png)
 
 ## 💡 Insights
 - Most actual prices fell within the 90% forecast cone
